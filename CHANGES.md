@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.11.4
+
+Fixed Issues:
+
+* [#1479](https://github.com/ckeditor/ckeditor-dev/issues/1479): Fixed: Justification for styled content in BR mode was disabled.
+
 ## CKEditor 4.11.3
 
 Fixed Issues:
