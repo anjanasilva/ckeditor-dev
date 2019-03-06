@@ -18,28 +18,27 @@
  */
 CKEDITOR.lang[ 'si' ] = {
 	// ARIA description.
-	editor: 'පොහොසත් වචන සංස්කරණ',
-	editorPanel: 'Rich Text Editor panel', // MISSING
+	editor: 'වචන සංස්කරණය',
+	editorPanel: 'වචන සංස්කරණ රාමුව',
 
 	// Common messages and labels.
 	common: {
 		// Screenreader titles. Please note that screenreaders are not always capable
 		// of reading non-English words. So be careful while translating it.
 		editorHelp: 'උදව් ලබා ගැනීමට  ALT බොත්තම ඔබන්න',
-
 		browseServer: 'සෙවුම් සේවාදායකය',
 		url: 'URL',
-		protocol: 'මුලාපත්‍රය',
+		protocol: 'මූලලේඛය',
 		upload: 'උඩුගතකිරීම',
 		uploadSubmit: 'සේවාදායකය වෙත යොමුකිරිම',
-		image: 'රුපය',
+		image: 'රූපය',
 		flash: 'දීප්තිය',
 		form: 'පෝරමය',
 		checkbox: 'ලකුණුකිරීමේ කොටුව',
 		radio: 'තේරීම් ',
-		textField: 'ලියන ප්‍රදේශය',
-		textarea: 'අකුරු ',
-		hiddenField: 'සැඟවුණු ප්‍රදේශය',
+		textField: 'කෙටි ලියන අවකාශය',
+		textarea: 'දිගු ලියන අවකාශය',
+		hiddenField: 'සැඟවුණු අවකාශය',
 		button: 'බොත්තම',
 		select: 'තෝරන්න ',
 		imageButton: 'රුප ',
@@ -80,11 +79,11 @@ CKEDITOR.lang[ 'si' ] = {
 		left: 'වම',
 		right: 'දකුණ',
 		center: 'මධ්‍ය',
-		justify: 'Justify', // MISSING
-		alignLeft: 'Align Left', // MISSING
-		alignRight: 'Align Right', // MISSING
-		alignCenter: 'Align Center', // MISSING
-		alignTop: 'ඉ',
+		justify: 'මැදට නමුත් දෙපැත්තට බර',
+		alignLeft: 'වමට බර',
+		alignRight: 'දකුණට බර',
+		alignCenter: 'හරි මැදට බර',
+		alignTop: 'උඩට',
 		alignMiddle: 'මැද',
 		alignBottom: 'පහල',
 		alignNone: 'None', // MISSING
